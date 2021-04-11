@@ -1,10 +1,11 @@
 let handler = async m => m.reply(`
  *GIT DE ESTE BOT*
 subot
-Tu mama es zorra y cobra
+LEONEL DE MERRY❤ 
+
 MY GIT:
 
-Hijo de puta
+MERRY DE LEONEL❤
 😴                                       
 `.trim()) 
 handler.help = ['git']
